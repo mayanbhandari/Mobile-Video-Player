@@ -78,4 +78,3 @@ secure-video-player/
 
 ## 👨‍💻 Author
 **Mayan Bhandari**  
-BTech CSE | Internship Project (NIC + MCD)
